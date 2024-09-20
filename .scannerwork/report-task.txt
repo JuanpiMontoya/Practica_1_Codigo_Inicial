@@ -1,0 +1,6 @@
+projectKey=Proyecto-Cafe
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=Proyecto-Cafe
+ceTaskId=fde52558-b007-4d3f-a410-b90f219f20bf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=fde52558-b007-4d3f-a410-b90f219f20bf
